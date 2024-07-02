@@ -19,5 +19,5 @@ Tipsy, bir restoran faturası üzerinden bahşiş hesaplama ve kişilere paylaş
   
 ## Uygulamaya Ait Resimler
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-07-02 at 18 22 07](https://github.com/omeryilmaz37/Tipsy-App/assets/142786863/86d73087-7433-4c7d-bb82-3d101538a97a)
-![Simulator Screenshot - iPhone 15 Pro - 2024-07-02 at 18 21 48](https://github.com/omeryilmaz37/Tipsy-App/assets/142786863/4870e0df-f524-480c-8847-3846656b227c)
+## ![Simulator Screenshot - iPhone 15 Pro - 2024-07-02 at 18 22 07](https://github.com/omeryilmaz37/Tipsy-App/assets/142786863/86d73087-7433-4c7d-bb82-3d101538a97a)
+## ![Simulator Screenshot - iPhone 15 Pro - 2024-07-02 at 18 21 48](https://github.com/omeryilmaz37/Tipsy-App/assets/142786863/4870e0df-f524-480c-8847-3846656b227c)
