@@ -2,7 +2,6 @@
 //  AppDelegate.swift
 //  Tipsy App
 //
-//  Created by Ömer Yılmaz on 2.07.2024.
 //  Created by Ömer Yılmaz on 10.05.2024.
 //
 
